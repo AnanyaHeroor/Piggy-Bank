@@ -1,20 +1,5 @@
 // Title:   Piggy Bank
-// Course:  COMP SCI 300 Summer 2020
-//
 // Author:  Ananya Heroor
-// Email:   heroor@wisc.edu
-// Lecturer's Name: Mouna Kacem
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Students who get help from sources other than the course staff must fully
-// acknowledge and credit those sources here.  If you did not receive any help
-// of any kind from outside sources, explicitly indicate NONE next to each of 
-// the labels below.
-//
-// Persons:         NONE
-// Online Sources:  NONE
-//
 ///////////////////////////////////////////////////////////////////////////////
 import java.util.Random;
 
